@@ -230,4 +230,7 @@ interface IStatusBarService
 
     /** Shows rear display educational dialog */
     void showRearDisplayDialog(int currentBaseState);
+
+    /** Project Blaze additions. */
+    void toggleCameraFlash();
 }
