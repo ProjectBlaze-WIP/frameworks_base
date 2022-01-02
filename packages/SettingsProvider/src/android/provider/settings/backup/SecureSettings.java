@@ -243,5 +243,7 @@ public class SecureSettings {
         Settings.Secure.ACCESSIBILITY_FONT_SCALING_HAS_BEEN_CHANGED,
         Settings.Secure.SEARCH_PRESS_HOLD_NAV_HANDLE_ENABLED,
         Settings.Secure.SEARCH_LONG_PRESS_HOME_ENABLED
+        Settings.Secure.ACCESSIBILITY_FONT_SCALING_HAS_BEEN_CHANGED,
+        Settings.Secure.TETHERING_ALLOW_VPN_UPSTREAMS
     };
 }
